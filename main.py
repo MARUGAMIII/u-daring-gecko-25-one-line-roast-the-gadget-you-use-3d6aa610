@@ -7,7 +7,7 @@ about a phone's weekly screen-time report to /output/entry.txt.
 
 import os
 
-LINE = "My phone just bragged my screen time is down 12% this week — a notification I read during my fourth straight hour of staring at it."
+LINE = "My phone just bragged my screen time is down 12% this week — a notification I read during my fourth straight hour of staring at it, like an arsonist congratulating me for using less water."
 
 
 def main() -> None:
